@@ -5,7 +5,10 @@
       <map>
         <entry key="..\:/AndroidStudioProjects/AndroidLessons/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/AndroidStudioProjects/AndroidLessons/p0031firstproject/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/AndroidStudioProjects/AndroidLessons/p0041basicviews/src/main/res/layout/activity_main.xml" value="0.536" />
+        <entry key="..\:/AndroidStudioProjects/AndroidLessons/p0041basicviews/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/AndroidLessons/p0051layoutfiles/src/main/res/layout-land/myscreen.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/AndroidLessons/p0051layoutfiles/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/AndroidStudioProjects/AndroidLessons/p0051layoutfiles/src/main/res/layout/myscreen.xml" value="0.4" />
       </map>
     </option>
   </component>
